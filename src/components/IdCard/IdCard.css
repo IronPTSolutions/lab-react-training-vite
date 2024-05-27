@@ -1,0 +1,12 @@
+.IdCard {
+  border: 1px solid black;
+  padding: 2px;
+  margin-bottom: 4px;
+  display: flex;
+  flex-wrap: nowrap;
+  column-gap: 4px;
+}
+
+.IdCard .IdCard-body p {
+  margin: 0 0 8px 0;
+}

@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+.box-border {
+  border: 1px solid black;
+  margin-bottom: 4px;
+  padding: 4px;
+} 
+
+.CreditCard-container {
+  display: flex;
+  column-gap: 4px;
+  margin: 4px 0;
 }
 
 .App-logo {
@@ -35,4 +43,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+main {
+  padding-left: 4px;
+  padding-right: 4px;
 }
