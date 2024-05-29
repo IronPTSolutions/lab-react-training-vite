@@ -1,0 +1,13 @@
+.Facebook {
+  margin-top: 20px
+}
+
+.Facebook .Facebook-actions {
+  display: flex;
+  column-gap: 8px;
+  margin: 8px 0;
+}
+
+.Facebook .Facebook-actions .selected {
+  background-color: cornflowerblue;
+}

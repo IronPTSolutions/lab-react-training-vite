@@ -1,0 +1,15 @@
+.NumbersTable {
+  margin-top: 20px;
+  width: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.NumbersTable > div {
+  width: 25%;
+  padding: 16px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
